@@ -47,7 +47,7 @@
 ## **Структура репозитория**  
 
 ```
-SQL-Course/
+Excel-Course/
 ├── lectures/
 │   ├── Lecture1.md
 ├── homework/
